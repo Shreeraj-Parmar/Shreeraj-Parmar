@@ -20,8 +20,7 @@ I care about building things the right way — simple, structured, and productio
 
 ## 🧠 Current Focus
 
-- 🐧 Linux internals & process management  
-- 🌐 Networking fundamentals & protocols  
+- 🐧 Linux internals
 - ☁️ Cloud infrastructure & deployments  
 - 🐳 Containerization & system isolation  
 - 🔐 DNS, SMTP & server architecture  
