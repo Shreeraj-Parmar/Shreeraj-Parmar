@@ -1,58 +1,64 @@
 <h1 align="center">Hi 👋, I'm Shreeraj</h1>
-<h3 align="center">🚀 Software Developer | Linux Explorer</h3>
+<h3 align="center">🚀 Building Scalable Software Systems & Developer Infrastructure</h3>
 
+<p align="center">
+Curious about how software truly works — from application logic to operating systems and infrastructure.
+</p>
 
 ---
 
 ## ⚡ About Me
 
-I build SaaS products and developer-focused tools.
+I design and build scalable software systems with a focus on reliability, clarity, and long-term maintainability.
 
-Currently exploring deeper layers of the web —  
-from application architecture to Linux systems, networking, and infrastructure.
+Beyond shipping features, I’m deeply interested in understanding the complete execution process —  
+how code runs, how processes are managed, how systems communicate, and how infrastructure scales under real-world conditions.
 
-I’m passionate about:
-- Building scalable backend systems
-- Understanding how things work under the hood
-- Turning ideas into real, production-ready software
+I care about building things the right way — simple, structured, and production-ready.
 
 ---
 
 ## 🧠 Current Focus
 
-- 🐧 Linux internals & system workflows
-- ☁️ Cloud infrastructure & deployments
-- 🐳 Docker & containerization
-- 🔐 DNS, SMTP & server architecture
-- ⚙️ Performance & scalability
+- 🐧 Linux internals & process management  
+- 🌐 Networking fundamentals & protocols  
+- ☁️ Cloud infrastructure & deployments  
+- 🐳 Containerization & system isolation  
+- 🔐 DNS, SMTP & server architecture  
+- ⚙️ Performance optimization & scalability  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,mongodb,docker,aws,linux,git" />
-</p>
+### Backend
+Node.js • PostgreSQL • MongoDB  
+
+### Frontend
+React • Next.js • TypeScript  
+
+### Systems & Infrastructure
+Linux • Docker • AWS • Git  
 
 ---
 
-## 🎯 Philosophy
+## 🎯 Engineering Philosophy
 
-> Build simple.  
-> Understand deeply.  
-> Scale thoughtfully.
+> Understand the process.  
+> Build with intention.  
+> Scale with clarity.
 
 ---
 
 ## 🤝 Open To
 
-- SaaS collaborations
-- System-level discussions
-- Developer tooling ideas
-- Open source contributions
+- System-level technical discussions  
+- Infrastructure & architecture collaboration  
+- Building meaningful software products  
+- Open-source contributions  
 
 ---
 
 <p align="center">
-  <strong>Building 🚀</strong>
+  <strong>Learning deeply. Building intentionally. 🚀</strong>
 </p>
